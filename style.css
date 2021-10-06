@@ -17,7 +17,11 @@
 }
 
 html,
+<style>
 body {
+    background-image: url('ak.jpg');
+}
+</style>
   display: grid;
   height: 100%;
   width: 100%;
